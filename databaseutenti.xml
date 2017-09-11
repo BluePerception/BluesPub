@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<db_utenti>
+  <utente>
+    <nome>cameriere</nome>
+    <cognome>cameriere</cognome>
+    <data_nascita>
+      <giorno>1</giorno>
+      <mese>1</mese>
+      <anno>1990</anno>
+    </data_nascita>
+    <email>cameriere@cameriere.com</email>
+    <username>cameriere</username>
+    <password>cameriere</password>
+    <tipo>cameriere</tipo>
+  </utente>
+
+<utente>
+  <nome>cliente</nome>
+  <cognome>cliente</cognome>
+  <data_nascita>
+    <giorno>1</giorno>
+    <mese>1</mese>
+    <anno>1995</anno>
+  </data_nascita>
+  <email>cliente@cliente.com</email>
+  <username>cliente</username>
+  <password>cliente</password>
+  <tipo>cliente</tipo>
+</utente>
+<utente>
+  <nome>titolare</nome>
+  <cognome>titolare</cognome>
+  <data_nascita>
+    <giorno>1</giorno>
+    <mese>1</mese>
+    <anno>1990</anno>
+  </data_nascita>
+  <email>titolare@titolare.com</email>
+  <username>titolare</username>
+  <password>titolare</password>
+  <tipo>titolare</tipo>
+</utente></db_utenti>

@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<db_list>
+  <cibo>
+    <nome>jsdvbdfsjvbdjfa</nome>
+    <descrizione>Pomodoro, pomodoro fresco, aglio, peperoncino, origano</descrizione>
+    <prezzo>5.00</prezzo>
+    <tipo>Bruschetta</tipo>
+  </cibo>
+  <cibo>
+    <nome>PIZZAIOLA</nome>
+    <descrizione>Pomodoro, pomodoro fresco, aglio, peperoncino, origano</descrizione>
+    <prezzo>5.00</prezzo>
+    <tipo>Bruschetta</tipo>
+  </cibo>
+  <cibo>
+    <nome>INDIAVOLATA</nome>
+    <descrizione>Mozzarella, pomodoro, salamino piccante, origano</descrizione>
+    <prezzo>6.50</prezzo>
+    <tipo>Bruschetta</tipo>
+  </cibo>
+  <cibo>
+    <nome>VERDURE</nome>
+    <descrizione>Mozzarella, pomodoro, zucchine, melanzane, origano</descrizione>
+    <prezzo>6.50</prezzo>
+    <tipo>Bruschetta</tipo>
+  </cibo>
+  <cibo>
+    <nome>PORCELLINA</nome>
+    <descrizione>Mozzarella, pomodoro, porcini, porchetta</descrizione>
+    <prezzo>6.50</prezzo>
+    <tipo>Bruschetta</tipo>
+  </cibo>
+  <cibo>
+    <nome>PARIGINA</nome>
+    <descrizione>Mozzarella, pomodoro, brie, prosciutto crudo 22 mesi</descrizione>
+    <prezzo>6.50</prezzo>
+    <tipo>Bruschetta</tipo>
+  </cibo>
+  <cibo>
+    <nome>MONACO</nome>
+    <descrizione>Mozzarella di bufala (3 Comuni), pomodoro, bresaola, rucola</descrizione>
+    <prezzo>6.50</prezzo>
+    <tipo>Bruschetta</tipo>
+  </cibo>
+  <cibo>
+    <nome>STRACCHINA</nome>
+    <descrizione>Stracchino a freddo, prosciutto crudo 22 mesi, olio extra vergine</descrizione>
+    <prezzo>6.50</prezzo>
+    <tipo>Bruschetta</tipo>
+  </cibo>
+  <cibo>
+    <nome>MOZZATA</nome>
+    <descrizione>Scamorza affumicata, prosciutto cotto alla brace, carciofo sott’olio, origano</descrizione>
+    <prezzo>6.50</prezzo>
+    <tipo>Bruschetta</tipo>
+  </cibo>
+  <cibo>
+    <nome>BOSCAIOLO</nome>
+    <descrizione>Porchetta, Asiago, Porcin</descrizione>
+    <prezzo>7.00</prezzo>
+    <tipo>Panino</tipo>
+  </cibo>
+  <cibo>
+    <nome>CAMPANO</nome>
+    <descrizione>Prosciutto crudo 22 mesi, pomodoro semisecco, mozzarella di bufala (3 Comuni), misticanza</descrizione>
+    <prezzo>7.00</prezzo>
+    <tipo>Panino</tipo>
+  </cibo>
+  <cibo>
+    <nome>TAGGIASCO</nome>
+    <descrizione>Tonno, capperi, olive taggiasche, cipolla stufata, pomodoro semisecco</descrizione>
+    <prezzo>7.00</prezzo>
+    <tipo>Panino</tipo>
+  </cibo>
+  <cibo>
+    <nome>ACCIUGHINO</nome>
+    <descrizione>Filetto di acciuga, mozzarella di bufala (3 Comuni), olio, origano</descrizione>
+    <prezzo>7.00</prezzo>
+    <tipo>Panino</tipo>
+  </cibo>
+  <cibo>
+    <nome>LEGGERO</nome>
+    <descrizione>Rucola, bresaola, stracchino, olio di oliva</descrizione>
+    <prezzo>7.00</prezzo>
+    <tipo>Panino</tipo>
+  </cibo>
+  <cibo>
+    <nome>BRACIERE</nome>
+    <descrizione>Cotto alla brace, stracchino, capperi</descrizione>
+    <prezzo>7.00</prezzo>
+    <tipo>Panino</tipo>
+  </cibo>
+  <cibo>
+    <nome>IL CLASSICO</nome>
+    <descrizione>Prosciutto cotto e formaggi</descrizione>
+    <prezzo>4.50</prezzo>
+    <tipo>Toast</tipo>
+  </cibo>
+  <cibo>
+    <nome>FUNGHI</nome>
+    <descrizione>Prosciutto cotto, formaggio e funghi</descrizione>
+    <prezzo>5.00</prezzo>
+    <tipo>Toast</tipo>
+  </cibo>
+  <cibo>
+    <nome>VERDURE</nome>
+    <descrizione>Prosciutto cotto, formaggio e verdure grigliate</descrizione>
+    <prezzo>5.00</prezzo>
+    <tipo>Toast</tipo>
+  </cibo>
+  <cibo>
+    <nome>LIGHT</nome>
+    <descrizione>Pane ai cereali, mozzarella, verdure grigliate, pomodoro fresco</descrizione>
+    <prezzo>5.00</prezzo>
+    <tipo>Toast</tipo>
+  </cibo>
+  <cibo>
+    <nome>BRESAOLA</nome>
+    <descrizione>Pane ai cereali, mozzarella, bresaola, pomodoro fresco</descrizione>
+    <prezzo>5.00</prezzo>
+    <tipo>Toast</tipo>
+  </cibo>
+  <cibo>
+    <nome>NACHOS CON SALSA PICCANTE</nome>
+    <descrizione></descrizione>
+    <prezzo>3.50</prezzo>
+    <tipo>Frittura</tipo>
+  </cibo>
+  <cibo>
+    <nome>FRITTO BLUES PUB</nome>
+    <descrizione>Misto fritto per 2 persone</descrizione>
+    <prezzo>6.50</prezzo>
+    <tipo>Frittura</tipo>
+  </cibo>
+  <cibo>
+    <nome>PATATINE FRITTE</nome>
+    <descrizione></descrizione>
+    <prezzo>3.80</prezzo>
+    <tipo>Frittura</tipo>
+  </cibo>
+  <cibo>
+    <nome>OLIVE ASCOLANE</nome>
+    <descrizione></descrizione>
+    <prezzo>4.20</prezzo>
+    <tipo>Frittura</tipo>
+  </cibo>
+  <cibo>
+    <nome>ANELLI DI CIPOLLA CON PASTELLA ALLA BIRRA</nome>
+    <descrizione></descrizione>
+    <prezzo>4.20</prezzo>
+    <tipo>Frittura</tipo>
+  </cibo>
+  <cibo>
+    <nome>FAJITAS DI POLLO</nome>
+    <descrizione>Tortillas, pollo speziato, cipolla e peperone</descrizione>
+    <prezzo>12.00</prezzo>
+    <tipo>Piatto</tipo>
+  </cibo>
+  <cibo>
+    <nome>FAJITAS DI MANZO</nome>
+    <descrizione>Tortillas, manzo speziato, cipolla e peperone</descrizione>
+    <prezzo>12.00</prezzo>
+    <tipo>Piatto</tipo>
+  </cibo>
+  <cibo>
+    <nome>FAJITAS DI MAZZANCOLLE</nome>
+    <descrizione>Tortillas, mazzancolle speziato, cipolla e peperone</descrizione>
+    <prezzo>12.00</prezzo>
+    <tipo>Piatto</tipo>
+  </cibo>
+  <cibo>
+    <nome>BLUES KEBAB</nome>
+    <descrizione>Tortillas con scamone manzo Irlanda, cappuccio, pomodorini e salsa yogurt</descrizione>
+    <prezzo>9.50</prezzo>
+    <tipo>Piatto</tipo>
+  </cibo>
+  <cibo>
+    <nome>COUS COUS VEGETARIANO</nome>
+    <descrizione>Con verdure croccanti saltate in padella</descrizione>
+    <prezzo>9.50</prezzo>
+    <tipo>Piatto</tipo>
+  </cibo>
+  <cibo>
+    <nome>COUS COUS MAZZANCOLLE</nome>
+    <descrizione>Con mazzancolle e zucchine croccanti</descrizione>
+    <prezzo>9.50</prezzo>
+    <tipo>Piatto</tipo>
+  </cibo>
+  <cibo>
+    <nome>COUS COUS AL MANZO</nome>
+    <descrizione>Con manzo e verdure croccanti saltate in padella  </descrizione>
+    <prezzo>9.50</prezzo>
+    <tipo>Piatto</tipo>
+  </cibo>
+  <cibo>
+    <nome>TAGLIATA DI MANZO</nome>
+    <descrizione>Con contorno di zucchine, melanzane e peperoni grigliati</descrizione>
+    <prezzo>14.00</prezzo>
+    <tipo>Piatto</tipo>
+  </cibo>
+  <bevanda>
+    <nome>PEPSI COLA PICCOLA</nome>
+    <descrizione>cl 25</descrizione>
+    <prezzo>2.50</prezzo>
+    <tipo>Analcolico</tipo>
+  </bevanda>
+  <bevanda>
+    <nome>PEPSI COLA MEDIA</nome>
+    <descrizione>cl 40</descrizione>
+    <prezzo>4.00</prezzo>
+    <tipo>Analcolico</tipo>
+  </bevanda>
+  <bevanda>
+    <nome>SCHWEPPES PICCOLA</nome>
+    <descrizione>Orange, Tonica, Lemon cl 25</descrizione>
+    <prezzo>2.50</prezzo>
+    <tipo>Analcolico</tipo>
+  </bevanda>
+  <bevanda>
+    <nome>SCHWEPPES MEDIA</nome>
+    <descrizione>Orange, Tonica, Lemon cl 40</descrizione>
+    <prezzo>4.00</prezzo>
+    <tipo>Analcolico</tipo>
+  </bevanda>
+  <bevanda>
+    <nome>THE LIPTON PICCOLO</nome>
+    <descrizione>Limone o pesca cl 25</descrizione>
+    <prezzo>2.50</prezzo>
+    <tipo>Analcolico</tipo>
+  </bevanda>
+  <bevanda>
+    <nome>THE LIPTON MEDIO</nome>
+    <descrizione>Limone o pesca cl 40</descrizione>
+    <prezzo>4.00</prezzo>
+    <tipo>Analcolico</tipo>
+  </bevanda>
+  <bevanda>
+    <nome>CHINOTTO</nome>
+    <descrizione>cl 25</descrizione>
+    <prezzo>2.50</prezzo>
+    <tipo>Analcolico</tipo>
+  </bevanda>
+  <bevanda>
+    <nome>TASSONI</nome>
+    <descrizione>cl 25</descrizione>
+    <prezzo>2.50</prezzo>
+    <tipo>Analcolico</tipo>
+  </bevanda>
+  <bevanda>
+    <nome>COCA COLA</nome>
+    <descrizione>in bottiglia cl 20</descrizione>
+    <prezzo>2.50</prezzo>
+    <tipo>Analcolico</tipo>
+  </bevanda>
+  <bevanda>
+    <nome>COCA COLA ZERO</nome>
+    <descrizione>in bottiglia cl 20</descrizione>
+    <prezzo>2.50</prezzo>
+    <tipo>Analcolico</tipo>
+  </bevanda>
+  <bevanda>
+    <nome>REDBULL</nome>
+    <descrizione>cl 25</descrizione>
+    <prezzo>4.00</prezzo>
+    <tipo>Analcolico</tipo>
+  </bevanda>
+  <bevanda>
+    <nome>SUCCHI DI FRUTTA</nome>
+    <descrizione>cl 20</descrizione>
+    <prezzo>2.50</prezzo>
+    <tipo>Analcolico</tipo>
+  </bevanda>
+  <bevanda>
+    <nome>ACQUA SURGIVA</nome>
+    <descrizione>Minerale naturale o frizzante cl 50</descrizione>
+    <prezzo>1.80</prezzo>
+    <tipo>Analcolico</tipo>
+  </bevanda>
+  <bevanda>
+    <nome>UPILER PICCOLA</nome>
+    <descrizione>Classica Bionda Belga dal gusto raffinato, leggermente luppolata e rinfrescante. La chiara più bevuta in Belgio. Alc. 5.2% vol. 25 cl</descrizione>
+    <prezzo>2.80</prezzo>
+    <tipo>Birra</tipo>
+  </bevanda>
+  <bevanda>
+    <nome>UPILER MEDIA</nome>
+    <descrizione>Classica Bionda Belga dal gusto raffinato, leggermente luppolata e rinfrescante. La chiara più bevuta in Belgio. Alc. 5.2% vol. 40 cl</descrizione>
+    <prezzo>4.80</prezzo>
+    <tipo>Birra</tipo>
+  </bevanda>
+  <bevanda>
+    <nome>LEFFE BLONDE PICCOLA</nome>
+    <descrizione>Birra di Abbazia, doppio malto, corposa e vellutata e  allo stesso tempo fine per i suoi eccezionali profumi. Alc. 6.6% vol. 25 cl</descrizione>
+    <prezzo>3.50</prezzo>
+    <tipo>Birra</tipo>
+  </bevanda>
+  <bevanda>
+    <nome>LEFFE BLONDE MEDIA</nome>
+    <descrizione>Birra d'Abbazia, doppio malto, corposa e vellutata e  allo stesso tempo fine per i suoi eccezionali profumi. Alc. 6.6% vol. 40 cl</descrizione>
+    <prezzo>5.50</prezzo>
+    <tipo>Birra</tipo>
+  </bevanda>
+  <bevanda>
+    <nome>LEFFE ROUGE PICCOLA</nome>
+    <descrizione>Birra d'Abbazia di colore rosso intenso, soddisfa coloro che desiderano una birra forte e generosa, ricca di profumo e sapore. Alc. 6.6% 25 cl</descrizione>
+    <prezzo>3.50</prezzo>
+    <tipo>Birra</tipo>
+  </bevanda>
+  <bevanda>
+    <nome>LEFFE ROUGE MEDIA</nome>
+    <descrizione>Birra d'Abbazia di colore rosso intenso, soddisfa coloro che desiderano una birra forte e generosa, ricca di profumo e sapore. Alc. 6.6% 40 cl</descrizione>
+    <prezzo>5.50</prezzo>
+    <tipo>Birra</tipo>
+  </bevanda>
+  <bevanda>
+    <nome>SCHWEIGER WEISSE PICCOLA</nome>
+    <descrizione>Birra di frumento chiara, prodotta dalla casa di  Monaco di Baviera e caratterizzata da lieviti molto delicati che ne  esaltano una naturale morbidezza al palato. Alc. 5.1% vol. 30 cl</descrizione>
+    <prezzo>3.50</prezzo>
+    <tipo>Birra</tipo>
+  </bevanda>
+  <bevanda>
+    <nome>SCHWEIGER WEISSE MEDIA</nome>
+    <descrizione>Birra di frumento chiara, prodotta dalla casa di Monaco di Baviera e caratterizzata da lieviti molto delicati che ne esaltano una naturale morbidezza al palato. Alc. 5,1% vol. 50 cl</descrizione>
+    <prezzo>5.00</prezzo>
+    <tipo>Birra</tipo>
+  </bevanda>
+  <bevanda>
+    <nome>HOEGAARDEN PICCOLA</nome>
+    <descrizione>Birra bianca di frumento rifermentata, prodotta con bucce di arancia, curacao e coriandolo. Il gusto è singolarmente amabile e rinfrescante. Alc. 4.9% vol. 25 cl</descrizione>
+    <prezzo>3.50</prezzo>
+    <tipo>Birra</tipo>
+  </bevanda>
+  <bevanda>
+    <nome>HOEGAARDEN MEDIA</nome>
+    <descrizione>Birra bianca di frumento rifermentata, prodotta con bucce di arancia, curacao e coriandolo. Il gusto è singolarmente amabile e rinfrescante. Alc. 4.9% vol. 50 cl</descrizione>
+    <prezzo>5.50</prezzo>
+    <tipo>Birra</tipo>
+  </bevanda>
+  <bevanda>
+    <nome>GUINNESS</nome>
+    <descrizione>La stout numero uno in Irlanda. Al gusto, forti sentori di tostatura, dove prevalgono caffè e cacao. Alc. 4,2% vol. 40 cl</descrizione>
+    <prezzo>5.50</prezzo>
+    <tipo>Birra</tipo>
+  </bevanda>
+  <bevanda>
+    <nome>GUERRILLA PICCOLA</nome>
+    <descrizione>Del MICROBIRRIFICIO CR/AK di CAMPODARSEGO. Birra limpida dal colore oro carico con riflessi ambrati. Aroma fruttato ed erbaceo dati dai luppoli Americani e Australiani. In bocca gusti di frutta esotica e secca. “Disobbediamo agli schemi e ci ribelliamo alla monotonia, ma con un chiodo fisso: equilibrio e pulizia”. Alc. 5,8% vol. 25 cl</descrizione>
+    <prezzo>3.50</prezzo>
+    <tipo>Birra</tipo>
+  </bevanda>
+  <bevanda>
+    <nome>GUERRILLA MEDIA</nome>
+    <descrizione>Del MICROBIRRIFICIO CR/AK di CAMPODARSEGO. Birra limpida dal colore oro carico con riflessi ambrati. Aroma fruttato ed erbaceo dati dai luppoli Americani e Australiani. In bocca gusti di frutta esotica e secca. “Disobbediamo agli schemi e ci ribelliamo alla monotonia, ma con un chiodo fisso: equilibrio e pulizia”. Alc. 5,8% vol. 40 cl</descrizione>
+    <prezzo>5.50</prezzo>
+    <tipo>Birra</tipo>
+  </bevanda>
+  <bevanda>
+    <nome>LOCAL LAGER PICCOLA</nome>
+    <descrizione>Del MICROBIRRIFICIO CR/AK di CAMPODARSEGO. È una Pils con luppoli aromatici tedeschi della nuova generazione, creata solo per il mercato locale, il Veneto, per garantire sempre la massima freschezza. Alc. 4,8% vol. 25 cl</descrizione>
+    <prezzo>3.50</prezzo>
+    <tipo>Birra</tipo>
+  </bevanda>
+  <bevanda>
+    <nome>LOCAL LAGER MEDIA</nome>
+    <descrizione>Del MICROBIRRIFICIO CR/AK di CAMPODARSEGO. È una Pils con luppoli aromatici tedeschi della nuova generazione, creata solo per il mercato locale, il Veneto, per garantire sempre la massima freschezza. Alc. 4,8% vol. 40 cl</descrizione>
+    <prezzo>5.50</prezzo>
+    <tipo>Birra</tipo>
+  </bevanda>
+  <bevanda>
+    <nome>SPRIZ APEROL</nome>
+    <descrizione></descrizione>
+    <prezzo>2.50</prezzo>
+    <tipo>Aperitivo</tipo>
+  </bevanda>
+  <bevanda>
+    <nome>SPRIZ CAMPARI</nome>
+    <descrizione></descrizione>
+    <prezzo>2.50</prezzo>
+    <tipo>Aperitivo</tipo>
+  </bevanda>
+  <bevanda>
+    <nome>AMERICANO</nome>
+    <descrizione>Campari, Martini Rosso, Soda</descrizione>
+    <prezzo>4.00</prezzo>
+    <tipo>Aperitivo</tipo>
+  </bevanda>
+  <bevanda>
+    <nome>NEGRONI</nome>
+    <descrizione>Campari, Martini Rosso, Gin</descrizione>
+    <prezzo>4.50</prezzo>
+    <tipo>Aperitivo</tipo>
+  </bevanda>
+  <bevanda>
+    <nome>IRISH COFFEE</nome>
+    <descrizione>Zucchero di canna, caffè lungo, Whisky Jameson, panna</descrizione>
+    <prezzo>5.00</prezzo>
+    <tipo>Cocktail</tipo>
+  </bevanda>
+  <bevanda>
+    <nome>BAILEYS COFFEE</nome>
+    <descrizione>Zucchero di canna, caffè lungo, Baileys, panna</descrizione>
+    <prezzo>5.00</prezzo>
+    <tipo>Cocktail</tipo>
+  </bevanda>
+  <bevanda>
+    <nome>CAFFÉ DEL BLUES</nome>
+    <descrizione>Caffé, crema di cacao, panna, cacao</descrizione>
+    <prezzo>2.50</prezzo>
+    <tipo>Cocktail</tipo>
+  </bevanda>
+  <bevanda>
+    <nome>MOJITO</nome>
+    <descrizione>Lime, zucchero di canna, Rhum chiaro, foglie di menta, soda</descrizione>
+    <prezzo>6.00</prezzo>
+    <tipo>Cocktail</tipo>
+  </bevanda>
+  <bevanda>
+    <nome>CAIPIROSKA</nome>
+    <descrizione>Lime, zucchero di canna, vodka secca</descrizione>
+    <prezzo>6.00</prezzo>
+    <tipo>Cocktail</tipo>
+  </bevanda>
+  <bevanda>
+    <nome>CAIPIFRAGOLA</nome>
+    <descrizione>Lime, zucchero di canna, vodka secca, fragola</descrizione>
+    <prezzo>6.00</prezzo>
+    <tipo>Cocktail</tipo>
+  </bevanda>
+  <bevanda>
+    <nome>CAIPIRIÑA</nome>
+    <descrizione>Lime, zucchero di canna, Cachaca</descrizione>
+    <prezzo>6.00</prezzo>
+    <tipo>Cocktail</tipo>
+  </bevanda>
+  <bevanda>
+    <nome>MOSCOW MULE</nome>
+    <descrizione>Vodka, Lime spremuto, Ginger Beer</descrizione>
+    <prezzo>6.00</prezzo>
+    <tipo>Cocktail</tipo>
+  </bevanda>
+  <bevanda>
+    <nome>McCALLAN</nome>
+    <descrizione>12 anni - whisky</descrizione>
+    <prezzo>6.00</prezzo>
+    <tipo>Distillato</tipo>
+  </bevanda>
+  <bevanda>
+    <nome>OBAN</nome>
+    <descrizione>14 anni - whisky</descrizione>
+    <prezzo>6.00</prezzo>
+    <tipo>Distillato</tipo>
+  </bevanda>
+  <bevanda>
+    <nome>LAGAVULIN</nome>
+    <descrizione>16 anni - whisky</descrizione>
+    <prezzo>6.50</prezzo>
+    <tipo>Distillato</tipo>
+  </bevanda>
+  <bevanda>
+    <nome>NIKKA ALL MALT</nome>
+    <descrizione>giapponese - whisky</descrizione>
+    <prezzo>5.00</prezzo>
+    <tipo>Distillato</tipo>
+  </bevanda>
+  <bevanda>
+    <nome>ZACAPA</nome>
+    <descrizione>23 anni - rum</descrizione>
+    <prezzo>6.50</prezzo>
+    <tipo>Distillato</tipo>
+  </bevanda>
+  <bevanda>
+    <nome>CUBANEY</nome>
+    <descrizione>21 anni - rum</descrizione>
+    <prezzo>7.50</prezzo>
+    <tipo>Distillato</tipo>
+  </bevanda>
+  <bevanda>
+    <nome>DAIMOSEAU XO</nome>
+    <descrizione>rum</descrizione>
+    <prezzo>6.50</prezzo>
+    <tipo>Distillato</tipo>
+  </bevanda>
+  <bevanda>
+    <nome>CAPOVILLA BLANC AGRICOLE</nome>
+    <descrizione>rum</descrizione>
+    <prezzo>6.50</prezzo>
+    <tipo>Distillato</tipo>
+  </bevanda>
+  <bevanda>
+    <nome>FRANCOIS PEYROT</nome>
+    <descrizione>alla pera - cognac</descrizione>
+    <prezzo>4.50</prezzo>
+    <tipo>Distillato</tipo>
+  </bevanda>
+  <bevanda>
+    <nome>DARTILALONGUE</nome>
+    <descrizione>base armagnac</descrizione>
+    <prezzo>5.50</prezzo>
+    <tipo>Distillato</tipo>
+  </bevanda>
+  <bevanda>
+    <nome>CARDENAL MENDOZA</nome>
+    <descrizione>brandy spagnolo</descrizione>
+    <prezzo>4.50</prezzo>
+    <tipo>Distillato</tipo>
+  </bevanda>
+  <bevanda>
+    <nome>HENDRICK’S</nome>
+    <descrizione>gin</descrizione>
+    <prezzo>4.50</prezzo>
+    <tipo>Distillato</tipo>
+  </bevanda>
+  <bevanda>
+    <nome>THE BOTANIST</nome>
+    <descrizione>gin</descrizione>
+    <prezzo>4.50</prezzo>
+    <tipo>Distillato</tipo>
+  </bevanda>
+</db_list>

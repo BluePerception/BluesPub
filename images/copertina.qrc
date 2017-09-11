@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/BluesPub">
+        <file>copertina2.jpg</file>
+    </qresource>
+</RCC>

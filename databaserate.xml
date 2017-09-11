@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<db_valutazioni>
+<valutazione>
+  <servizio>3</servizio>
+  <consumazione>3</consumazione>
+</valutazione>
+<valutazione>
+  <servizio>2</servizio>
+  <consumazione>3</consumazione>
+</valutazione>
+<valutazione>
+  <servizio>4</servizio>
+  <consumazione>5</consumazione>
+</valutazione>
+<valutazione>
+  <servizio>1</servizio>
+  <consumazione>1</consumazione>
+</valutazione>
+<valutazione>
+  <servizio>5</servizio>
+  <consumazione>2</consumazione>
+</valutazione>
+<valutazione>
+  <servizio>4</servizio>
+  <consumazione>4</consumazione>
+</valutazione>
+<valutazione>
+  <servizio>3</servizio>
+  <consumazione>3</consumazione>
+</valutazione>
+<valutazione>
+  <servizio>4</servizio>
+  <consumazione>5</consumazione>
+</valutazione>
+<valutazione>
+  <servizio>4</servizio>
+  <consumazione>1</consumazione>
+</valutazione></db_valutazioni>

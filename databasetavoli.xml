@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<db_tavoli>
+  <tavolo>
+    <id>1</id>
+    <ordinazioni>
+      <ordinazione>
+        <quantita>1</quantita>
+        <item>INDIAVOLATA</item>
+      </ordinazione>
+      <ordinazione>
+        <quantita>1</quantita>
+        <item>SPRIZ APEROL</item>
+      </ordinazione>
+      <ordinazione>
+        <quantita>1</quantita>
+        <item>SPRIZ APEROL</item>
+      </ordinazione>
+    </ordinazioni>
+  </tavolo>
+
+<tavolo>
+  <id>2</id>
+  <ordinazioni>
+    <ordinazione>
+      <quantita>4</quantita>
+      <item>PARIGINA</item>
+    </ordinazione>
+    <ordinazione>
+      <quantita>2</quantita>
+      <item>THE LIPTON MEDIO</item>
+    </ordinazione>
+    <ordinazione>
+      <quantita>1</quantita>
+      <item>COCA COLA</item>
+    </ordinazione>
+  </ordinazioni>
+</tavolo>
+<tavolo>
+  <id>3</id>
+  <ordinazioni/>
+</tavolo>
+<tavolo>
+  <id>4</id>
+  <ordinazioni/>
+</tavolo>
+<tavolo>
+  <id>5</id>
+  <ordinazioni/>
+</tavolo>
+<tavolo>
+  <id>6</id>
+  <ordinazioni/>
+</tavolo>
+<tavolo>
+  <id>7</id>
+  <ordinazioni/>
+</tavolo>
+<tavolo>
+  <id>8</id>
+  <ordinazioni/>
+</tavolo>
+<tavolo>
+  <id>9</id>
+  <ordinazioni/>
+</tavolo>
+<tavolo>
+  <id>10</id>
+  <ordinazioni/>
+</tavolo>
+<tavolo>
+  <id>11</id>
+  <ordinazioni/>
+</tavolo>
+<tavolo>
+  <id>12</id>
+  <ordinazioni/>
+</tavolo>
+<tavolo>
+  <id>13</id>
+  <ordinazioni/>
+</tavolo>
+<tavolo>
+  <id>14</id>
+  <ordinazioni/>
+</tavolo>
+<tavolo>
+  <id>15</id>
+  <ordinazioni/>
+</tavolo>
+<tavolo>
+  <id>16</id>
+  <ordinazioni/>
+</tavolo>
+<tavolo>
+  <id>22</id>
+  <ordinazioni/>
+</tavolo></db_tavoli>
