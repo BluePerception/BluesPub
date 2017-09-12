@@ -1,2 +1,2 @@
 # BluesPub
-BluesPub is a little project for a object oriented programming university course.
+BluesPub is a little project for an object oriented programming university course.
